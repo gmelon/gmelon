@@ -3,7 +3,7 @@
 ## 자바
 | 주제 | 링크 |
 | :---: | :---: |
-|  |  |
+| 자바 HashMap 동작 방식 | https://d2.naver.com/helloworld/831311 |
 
 ## JPA, Hibernate
 | 주제 | 링크 |
