@@ -4,6 +4,7 @@
 | 주제 | 링크 |
 | :---: | :---: |
 | 자바 HashMap 동작 방식 | https://d2.naver.com/helloworld/831311 |
+| effective final과 람다식/내부클래스 | https://madplay.github.io/post/effectively-final-in-java |
 
 ## JPA, Hibernate
 | 주제 | 링크 |
