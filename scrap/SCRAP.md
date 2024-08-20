@@ -15,7 +15,7 @@
 | 주제 | 링크 |
 | :---: | :---: |
 | 부동 소수점의 이해 (1부) | https://devocean.sk.com/search/techBoardDetail.do?ID=165270 | 
-| 부동 소수점의 이해 (2부) | https://devocean.sk.com/blog/techBoardDetail.do?page=&boardType=undefined&query=&ID=165276&searchData=&subIndex=&searchText=&techType=&searchDataSub=&searchDataMain= |
+| 부동 소수점의 이해 (2부) | https://devocean.sk.com/blog/techBoardDetail.dopage=&boardType=undefined&query=&ID=165276&searchData=&subIndex=&searchText=&techType=&searchDataSub=&searchDataMain= |
 
 ## 성과 관리
 | 주제 | 링크 |
